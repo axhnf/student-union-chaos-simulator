@@ -31,15 +31,6 @@ If you survive without winning, your final stats decide which other ending you g
 - Multiple endings
 - Menu input validation, so invalid choices are handled without crashing
 
-## Getting started
-
-You need [Java 8 or later](https://adoptium.net/). From the project folder, run:
-
-```bash
-javac -d out src/*.java
-java -cp out StudentUnionSimulator
-```
-
 ## Example
 
 ```text
