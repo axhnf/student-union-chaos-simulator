@@ -74,7 +74,3 @@ Choose an option:
 - **File handling:** writing and reading a save file, with fallback to a new game if it is missing or invalid
 - **Input validation and exception handling:** repeated prompts until a valid menu choice is entered
 - **Game state management:** stat limits, win and lose checks, and randomised outcomes
-
-## Author
-
-**Sheikh Ahnaf Ferdous**
